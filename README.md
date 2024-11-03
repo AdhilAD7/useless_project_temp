@@ -4,16 +4,16 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [EAGLE]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [ADITHYA] - [College of engineering Munnar]
+- Member 2: [ADHIL] - [College of engineering Munnar]
+- Member 3: [SANHAN] - [College of engineering Munnar]
 
 ### Project Description
-[2-3 lines about what your project does]
+It is a project which on and off a bulb usimg program code.It is a simple and basic project using program codes
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -24,7 +24,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -46,20 +46,12 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
+![Screenshot1]![Screenshot 2024-11-03 062833](https://github.com/user-attachments/assets/6d43cd38-92a1-4393-9b2e-bddc2c60b08f)
+It represents the initial step of the program code
+![Screenshot2]![Screenshot 2024-11-03 062754](https://github.com/user-attachments/assets/80efa7ee-0966-4118-b553-e60809affeab)
+It represents the conclusion of the program code
+![Screenshot3]!![Screenshot 2024-11-03 062856](https://github.com/user-attachments/assets/965b6ca1-c0da-45e8-826d-5b488bf9b218)
+It represents the output where the bulb finally glows 
 
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
