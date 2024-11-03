@@ -1,19 +1,19 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [ON AND OFF] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [EAGLE]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [ADITHYA] - [College of engineering Munnar]
+- Member 2: [ADHIL] - [College of engineering Munnar]
+- Member 3: [SANHAN] - [College of engineering Munnar]
 
 ### Project Description
-[2-3 lines about what your project does]
+It is a basic and simple project which uses program to on and off the bulb
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -24,7 +24,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -46,18 +46,12 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot1]![Screenshot 2024-11-03 062754](https://github.com/user-attachments/assets/38d8ab23-ad01-4609-bad8-f16e738063e9)
+It is the initial step of the program code
+![Screenshot2]![Screenshot 2024-11-03 062833](https://github.com/user-attachments/assets/0cfedd84-5279-4573-864a-45a6aaf90d02)
+it is the final step of the program code
+![Screenshot3]!![Screenshot 2024-11-03 062856](https://github.com/user-attachments/assets/9d8b3e12-058c-43db-b91f-17b92c282867)
+It is the final step where the bulb turns on and off 
 
 For Hardware:
 
